@@ -1,0 +1,3 @@
+[submodule "git-flow-playground"]
+	path = git-flow-playground
+	url = git@github.com:song-rit/git-flow-playground.git
